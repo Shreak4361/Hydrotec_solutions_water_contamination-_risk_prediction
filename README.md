@@ -90,6 +90,8 @@ Plots converted to base64 PNGs
 
 Uses master_sites.childSites to fetch related sites
 
+
+
 📦 Folder Structure
 bash
 .
@@ -100,6 +102,8 @@ bash
 ├── models/                      # Trained model files (.h5, .pkl)
 ├── utils/                       # Common helpers (e.g., image encoding)
 └── README.md
+
+
 🔧 Setup Instructions
 ▶️ Create Environment
 bash
